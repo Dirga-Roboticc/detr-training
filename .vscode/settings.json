@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./RT-DETR/rtdetr_paddle"
+    ]
+}
